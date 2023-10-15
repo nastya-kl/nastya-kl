@@ -1,11 +1,10 @@
 ## :wave: Привет, меня зовут Настя!
 
-<img align="right" src="https://komarev.com/ghpvc/?username=nastya-kl&style=flat-square&color=blue" alt=""/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" align="right" width="300px"/>
 
 ### :bookmark_tabs: О себе:
 
 <div id="header">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" align="right" width="300px"/>
   <ul list-style="none">
     <li>:woman_technologist: Начинающий фронтенд-разработчик</li>
     <li>:woman_student: Закончила СПбГУГА (инженер) с красным дипломом</li>
