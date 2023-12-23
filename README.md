@@ -6,7 +6,7 @@
 
 <div id="header">
   <ul list-style="none">
-    <li>:woman_technologist: Начинающий фронтенд-разработчик</li>
+    <li>:woman_technologist: Фронтенд-разработчик в активном поиске работы</li>
     <li>:woman_student: Закончила СПбГУГА (инженер) с красным дипломом</li>
     <li>:medal_sports:Выпускница курсов от Яндекс.Практикума</li>
     <li>:hourglass_flowing_sand:Занимаюсь разработкой проекта с выпускниками</li>
